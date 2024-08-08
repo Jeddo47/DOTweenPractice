@@ -243,11 +243,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 964608a4a5184864c909762116bc88c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _meshRenderer: {fileID: 40051508}
-  _color: {r: 1, g: 1, b: 1, a: 0}
   _duration: 1
   _repeats: -1
   _loopType: 1
+  _meshRenderer: {fileID: 40051508}
+  _color: {r: 1, g: 1, b: 1, a: 0}
 --- !u!1 &135669648
 GameObject:
   m_ObjectHideFlags: 0
@@ -366,10 +366,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e87907660efcb2943a9b772e5d65a661, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _rotation: {x: 0, y: 180, z: 0}
   _duration: 3
   _repeats: -1
   _loopType: 0
+  _rotation: {x: 0, y: 180, z: 0}
 --- !u!1 &243029852
 GameObject:
   m_ObjectHideFlags: 0
@@ -556,10 +556,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1e16a8fcbd2f3746a53a69415c5f28e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _position: {x: -6, y: 4, z: 0}
   _duration: 1
   _repeats: -1
   _loopType: 1
+  _position: {x: -6, y: 4, z: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -774,10 +774,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9047d181285eff24e8bf959e5c319f1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scale: 2
   _duration: 1
   _repeats: -1
   _loopType: 1
+  _scale: 2
 --- !u!1 &842827425
 GameObject:
   m_ObjectHideFlags: 0
@@ -1176,10 +1176,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9047d181285eff24e8bf959e5c319f1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scale: 2
   _duration: 1
   _repeats: -1
   _loopType: 1
+  _scale: 2
 --- !u!114 &1850299035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1192,10 +1192,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e87907660efcb2943a9b772e5d65a661, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _rotation: {x: 0, y: 180, z: 0}
   _duration: 3
   _repeats: -1
   _loopType: 0
+  _rotation: {x: 0, y: 180, z: 0}
 --- !u!114 &1850299036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1208,10 +1208,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1e16a8fcbd2f3746a53a69415c5f28e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _position: {x: 3, y: 4, z: 0}
   _duration: 1
   _repeats: -1
   _loopType: 1
+  _position: {x: 3, y: 4, z: 0}
 --- !u!1 &1865805555
 GameObject:
   m_ObjectHideFlags: 0
@@ -1362,9 +1362,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _text: {fileID: 842827426}
+  _duration: 2
   _anotherText: Another Text
   _addedText: ' Added Text'
   _hackedText: Hacked Text
-  _duration: 2
   _scrambleMode: 1
-  _textChangeDelay: 3
+  _textChangeDelay: 1
